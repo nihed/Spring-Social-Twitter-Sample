@@ -1,2 +1,3 @@
 a sample application using Spring Social Twitter and hosted on Red Hat Cloud OpenShift.
 http://twitter-nihed.rhcloud.com/
+application.properties.sample.properties on /src/main/resources must be renamed to application.properties and adding your keys from twitter https://dev.twitter.com/ 
