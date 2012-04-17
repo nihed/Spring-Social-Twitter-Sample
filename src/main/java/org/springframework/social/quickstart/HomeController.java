@@ -35,11 +35,11 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 /**
- * Simple little @Controller that invokes Facebook and renders the result. The
- * injected {@link Facebook} reference is configured with the required
+ * Simple little @Controller that invokes Twitter and renders the result. The
+ * injected {@link Twitter} reference is configured with the required
  * authorization credentials for the current user behind the scenes.
  *
- * @author Keith Donald
+ * @author Nihed MBAREK
  */
 @Controller
 public class HomeController {
